@@ -50,7 +50,7 @@
             <td>https://github.com/tpruvot/yiimp</td>
             <td>https://github.com/tpruvot</td>
             <td>Looks fresh enough</td>
-            <td></td>
+            <td>Forked from Yaamp</td>
         </tr>
     </tbody>
 </table>
