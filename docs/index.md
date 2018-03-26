@@ -1,13 +1,5 @@
-<html lang="en">
-<head>
-    <title>Crypto-Lyon - Comparison of multi-algo mining pools</title>
-    <meta charSet="utf-8"/>
-    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="Comparison of multi-algo mining pools"/>
-</head>
-<body>
-<h1>Comparison of multi-algo mining pools</h1>
+# Comparison of multi-algo mining pools
+
 <table>
     <thead>
         <th></th>
@@ -62,5 +54,3 @@
         </tr>
     </tbody>
 </table>
-</body>
-</html>
